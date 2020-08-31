@@ -1,0 +1,18 @@
+{
+  "name": "Crypto.com",
+  "campaignId": "12345abc",
+  "period": {
+    "startDays": [ "2020-09-03" ],
+    "durationInDays": 1,
+    "startHour": 0,
+    "lastHour": 23
+  },
+  "regions": {
+    "include": [ "US" ],
+    "exclude": []
+  },
+  "asset": {
+    "type": "s3",
+    "path": "assets/Crypto.com_090320-090320"
+  }
+}
